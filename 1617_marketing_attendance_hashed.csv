@@ -1,0 +1,310 @@
+,event_id,timestamp,name,year,study_field1,study_field2,study_field3,reference_type,reference_ad_id,nonboard_status,ues_board,photo_consent
+0,1,10/25/16 7:59 PM,a3b975a9ae0abd07ce822fe334dfdda323b600a77c83c052156863dd8339d25c,4,economics,,,internal,,,1,
+1,1,10/25/16 8:00 PM,2220444058024760de431adc90b614f3522b0b766217615a7786076f65a72a3f,3,economics,,,internal,,,1,
+2,1,10/25/16 8:01 PM,da8ad19922eaded553fbe6770345ede99440387bbf71f168bfc5b36f42d63431,4,management science,,,internal,,,1,
+3,1,10/25/16 8:02 PM,82c8611c84fbc80022bec36c640186048f6725caa4076df67ad5eed917e6546b,unknown,international business,,,fb,9,,0,
+4,1,10/25/16 8:03 PM,98abc915f1b702b861d8847ad797bcadad7b126e53aa9159988b2b142b7b958e,1,management science,,,internal,,,1,
+5,1,10/25/16 8:03 PM,d46d4fb01dad2edf9ce9b2f7e29ff32fa9fa300ad0dcd616772c99e2eea86d07,1,management science,,,fb,9,,0,
+6,1,10/25/16 8:04 PM,8a30930922562f7d39f11566195e6220bec7ff780f4aee4b15e692a861f8c443,3,biochemistry,,,word,,,0,
+7,1,10/25/16 8:05 PM,a8715c30d366e3a9659d973126bbc49caf3d5d5a11a80602a385a0f93de89991,unknown,economics,,,website,,,1,
+8,1,10/25/16 8:05 PM,caa5ce420b969b6a0dbc6bab1c0e2c4a85c046b2a8646e47c057403b68f63568,unknown,economics,,,internal,,,1,
+9,1,10/25/16 8:06 PM,1681ac45b5756263866189cd8cfbda4c4ffe6047962f59983ff01aa3bc0cf13d,2,management science,,,seat_flyer,,,0,
+10,1,10/25/16 8:07 PM,00edf45d98b5bb190494549a70403cebf62d8314ff48f0857284b34838ed848c,unknown,international economics,,,internal,,,1,
+11,1,10/25/16 8:08 PM,5d84e17c41e519000976f3e74cb946dfe0830c510183cd1b9b6555284480b6fa,1,economics,,,chalkboard,,,0,
+12,1,10/25/16 8:08 PM,85e2d3e30bab9f9057567dfdaa8e48a27217d20a4e2f156c3f21d5fea484c6b0,3,math/econ,,,chalkboard,,,0,
+13,1,10/25/16 8:09 PM,d725574f043bacf55933e4302c0e3a7ef977552559e86324d3f53c6a7d8eb3b6,1,economics,,,chalkboard,,,0,
+14,1,10/25/16 8:09 PM,6910effe3a16708d43bdff0561371e9b861e9cd57a8a57f4ba5e95d07929c8ef,3,management science,,,internal,,,1,
+15,1,10/25/16 8:10 PM,0a8b81d75038fe3c265c355a375d2bf51c91c8522add139d630c3f566cf234f9,1,management science,,,internal,,,1,
+16,1,10/25/16 8:10 PM,1e8f3bb92691ef95a8dcb6524d2098449c01500c48da93071026fbaa6966233f,3,economics,,,fb,9,,0,
+17,1,10/25/16 8:11 PM,44a83b8a78401db43bd8ecbd6a837c6d2a00ad9c33ffcf5021a1d70dc15825cc,3,economics,,,fb,9,,0,
+18,1,10/25/16 8:11 PM,5996823d9f087d46e4b90bb593375e85d3115fe900667fe8944f878d293849e1,2,math/econ,,,internal,,,1,
+19,1,10/25/16 8:12 PM,b9b5b7c171c679575dc93a421a35144b4d2d2307e467b50372cccd75e2c4ced9,2,math/econ,,,internal,,,1,
+20,1,10/25/16 8:12 PM,750c86614359d8ab78fe980f1a6ee95b2d52ced50703874da2ae6b79ec249494,1,economics,,,internal,,,1,
+21,1,10/25/16 8:13 PM,91bc506d93f441b09b5869fd547ae2365ee31415326e710e48b1172a0959ed90,2,management science,,,seat_flyer,,,0,
+22,1,10/25/16 8:13 PM,85dabb071fca51ac69cfda989f785b9f1b1c4d6b794b60e4dcc9784fde6e6008,1,economics,,,fb,9,,0,
+23,1,10/25/16 8:14 PM,e535d79adb6c6cf116d446d1b21d916a1ef84767ef41c48d4db1765fb1e5904f,1,economics,,,internal,,,1,
+24,1,10/25/16 8:14 PM,e8d9a73d68350884ded551ad9a16b8c3770bbb6ffa1c4ed79dc0e0889b5234bd,2,sociology,,,internal,,,1,
+25,1,10/25/16 8:15 PM,ffcefe2eaf3500b5c1a5110dbae514df7ff413e22a3f73fb5a88abfa5099376f,2,math/econ,,,internal,,,1,
+26,1,10/25/16 8:16 PM,cdd9f613143b5dfa6f7ac74262f0352edd393e51e7163c9edb54035f2eb47ebb,3,economics,,,seat_flyer,,,0,
+27,1,10/25/16 8:16 PM,15aed203eb4d1c5e9b4b916de003a36d38216cd8c88baefd8c50cbb8a23aa061,unknown,economics,,,seat_flyer,,,0,
+28,1,10/25/16 8:17 PM,5c3b780e0a27e1421aeaff6d314d1ef5f9066c39d37c7af834925b423603c89b,2,international business,,,fb,9,,0,
+29,1,10/25/16 8:18 PM,c4cc3faf7e0df937f8c1ceca514bec04389d01064cf0b76f9dbcf0f26ddaaf4c,1,economics,,,seat_flyer,,,0,
+30,1,10/25/16 8:18 PM,c7674476b3a7988968cd1ed425bae538c2604870ce4721555a05e570352471f2,1,international business,,,seat_flyer,,,0,
+31,1,10/25/16 8:19 PM,2e826e3d0f1ab807de41dcdc8acc8edef23e3c151df5124696cf71010715728a,3,math/econ,,,fb,9,,0,
+32,1,10/25/16 8:20 PM,67e9c5ac422a56ed0654a8d9546d239b353659f437e361647b91762082bcdbd4,2,economics,,,seat_flyer,,,1,
+33,1,10/25/16 8:20 PM,5c64c8ae57aaf353b8acd28fbaff32bab463cf9a80224bd9239cef4dafa41168,2,international business,,,fb,9,,0,
+34,1,10/25/16 8:21 PM,397f31d0d79f52d3735175b1838328750087f2bdb1251ff6f6e16e3822c4b345,2,economics,,,fb,9,,0,
+35,1,10/25/16 8:21 PM,59fce767cdc09fb45993581e64e624fa599cff7e0d886bf01e06a240752e179e,3,economics,,,fb,9,,0,
+36,1,10/25/16 8:22 PM,93cdad9fc7ab8dfac34fdee9156e3363d41cb56661ce3436dd9c752d081e01a4,2,economics,,,website,,,0,
+37,1,10/25/16 8:22 PM,e35da68729546eedc6cca549a3cda6bc190fdc66841398d008d15fb3f17953e6,3,economics,,,chalkboard,,,0,
+38,1,10/25/16 8:23 PM,61188589071fff586e1580bf81b00bd74ff513a200dccc9eadd109bb76d5415a,2,economics,,,internal,,,1,
+39,1,10/25/16 8:24 PM,cae5243dafae28b3e45018e990856afb24d433a34dda972d3288af2ef5c4f33b,unknown,economics,,,word,,,0,
+40,1,10/25/16 8:24 PM,e580ddb5dcdd17e4191c337dc7e93c16dfb83bcaaab902011a2347fd582b02cf,3,economics,,,fb,9,,0,
+41,1,10/25/16 8:25 PM,f6d8f757ebf582be1b48867edc40fed302b06559b67f8f031767923989c77796,1,applied math,,,fb,9,,0,
+42,1,10/25/16 8:26 PM,b0c5f1e50c68ab3d79d51c8e8d0a232dbb00efa1dbb7d50b6a2f742d33d9322e,1,economics,,,internal,,,1,
+43,1,10/25/16 8:26 PM,83a6cbe1e03d4b49ee820dcded9a58d7285b1d343bfe31401cde38c55210e4c1,2,applied math,,,fb,9,,0,
+44,1,10/25/16 8:27 PM,303218a76c5d909a28410c567cc430e22c8db9f5d84ff71d8156e6a10e9989ad,1,math/econ,,,internal,,,1,
+45,1,10/25/16 8:27 PM,7d91af86bbc8e06906659e6e7047f5e27d52266e754bfedeb99cd6095cb116e1,1,economics,,,internal,,,1,
+46,1,10/25/16 8:28 PM,f824a82dcf270fe4c93b77aa1fb53587fd23fa1f39dc52d838ab30bde401e743,2,management science,,,internal,,,1,
+47,1,10/25/16 8:29 PM,0e1dc6cbe69adffaa33fca310bc1cebfb4368ef8d6d7582a6a46a616bf037370,2,economics,,,website,,,0,
+48,1,10/25/16 8:29 PM,6bf0f4bdb043d4199198b50adf3c3dee7b945b44dac0b3bc7682d309e4ff0611,2,economics,,,website,,,1,
+49,1,10/25/16 8:30 PM,87e13f9fbe03b0cbf60f0fe6bf5f4d47f051b37e09bdbcbbd6df58aa6ee4ee5f,1,economics,,,chalkboard,,,0,
+50,1,10/25/16 8:32 PM,2a5c9edbd7d848fc82e68bab9063e4fa565140ce77c95e77ad726eb9b3dca410,2,cognitive science,,,fb,9,,0,
+51,3,12/3/16 10:33 AM,d72a29d9d7b775f1fb91a910fb7011b3f7c61b5ba5d36d6754ce69a00bb9994b,1,management science,,,internal,,,1,
+52,3,12/3/16 10:35 AM,11e399e16d1c8993df6591989a0b0aaedd7277b7763663502f3a645206c12365,3,management science,,,internal,,,1,
+53,3,12/3/16 10:36 AM,42374157ea1d40ea33471c4f795f7779752d95825e0f1e7cc564470925dfd5c0,3,economics,,,internal,,,1,
+54,3,12/3/16 10:36 AM,9cc74dbf8ce54a8188c0a6577a3cd6b9632cf218ea9e698e1938515aff1485f5,2,economics,,,internal,,,1,
+55,3,12/3/16 10:37 AM,86fbd0398fddd4cfbda2045eea45ef745684a14b53733f34fcab002506c10023,3,math/econ,,,internal,,,1,
+56,3,12/3/16 10:38 AM,55b411274c723208d3948889495bc66fa5ef279233ffcdfd792961a20f467a17,3,psychology,,,,,new,0,
+57,3,12/3/16 10:38 AM,a30610fbd6d18542fe4d267409aa2e6fb65c94a25beb550794ddf28844999589,3,math/econ,,,internal,,,1,
+58,3,12/3/16 10:38 AM,edf99566b80bf86da12ff19af8265af156002ee481591042ef1260249560d395,4,cognitive science,,,,,new,0,
+59,3,12/3/16 10:40 AM,1526fb576fa5b79b4ab889a5896ef794f226d6899bcf25802cc5575e9ea54800,1,economics,,,internal,,,1,
+60,3,12/3/16 10:40 AM,fd5588384039bcbd1769a783877265910b402500b808ed243ddc990a4dd21293,2,math/econ,,,internal,,,1,
+61,3,12/3/16 10:41 AM,0cd089e5976d6f18c300af8af3c64ede2f0d92d0e41386de77374c8444de9502,2,physiology & neuroscience,,,,,new,0,
+62,3,12/3/16 10:42 AM,93034d38f4ed94aa1742fd3ae3f54779e29d514e5566bb388ffd49dcbd976836,2,public health,,,,,new,0,
+63,3,12/3/16 10:47 AM,59b2c46534cfafab98e777ae218423338aace3cfde8e17fdc4e0bf65e8849045,3,management science,,,internal,,,1,
+64,3,12/3/16 10:47 AM,404055bffe847e5b222fa16157a850164d2e1aba9137d13b4d4b2ca0e2139627,4,economics,,,internal,,,1,
+65,3,12/3/16 10:54 AM,7c682e641f2e62ba6d9c6dcbf4c491581e793df24934a1667f5117c7ea9d5690,2,economics,,,internal,,,1,
+66,3,12/3/16 10:56 AM,3cb8babd2eb5376aa8af76012f5269a8a2bb1ed86ba25299dcb10b6adba44d3e,1,economics,,,internal,,,1,
+67,3,12/3/16 10:59 AM,5ededa39fc63ef846f274fb3351892e89a770d01bc22ab58264187b3ca496887,1,economics,,,internal,,,1,
+68,3,12/3/16 11:09 AM,15952bcf56d29050cefac9268a69065f9705ffc4ce846ea06d6da62bca02a1d8,1,economics,,,internal,,,1,
+69,3,12/3/16 11:10 AM,fbaae804344130f4469a83ae601c0f42f16618780d3ae09f32a9bcd3a65591b2,1,human biology,,,,,new,0,
+70,3,12/3/16 11:40 AM,1b05aa80079a8663fe670b8f50d34e91802fcce61a3d63dbcde1da77aac65ced,2,economics,,,,,new,0,
+71,3,12/3/16 11:42 AM,4c26d43a9ba70643784e9cd716e2f6a399c818c26e51286999f756b6c709626b,1,economics,,,,,returning,0,
+72,3,12/3/16 11:43 AM,07776a3c895f13b9d7f290941d0e048a4272a2edd849d9c19900c4b7a3aa8963,4,economics,,,internal,,,1,
+73,4,2/15/17 1:26 PM,e8a18b55b180a01fa785f6c9c205256a94010d6b8cdc062905ca12ee06f112e9,1,math/econ,,,internal,,,1,
+74,4,2/16/17 11:14 AM,b3598f2851ba2ac44f09c5b6fa80b2d3705c05e11e44ff16e09cd8fda8e95691,1,international economics,,,word,,new,0,
+75,4,2/16/17 11:18 AM,b99bacda189912e4756a33ead4042d2f6a2e6d2b4245f962740ce8c2568635d0,2,economics,,,walk_in,,new,0,
+76,4,2/16/17 11:19 AM,0491d6edd7f8d0d6b8483dc01106c4d077bf984851bbe9ac1b521a636225342c,2,economics,,,walk_in,,new,0,
+77,4,2/16/17 11:37 AM,5f2a208594dfa44d840965b6413ba6acb0bb5b3335e969b6772fe487feeb718c,1,undeclared,,,walk_in,,new,0,
+78,4,2/16/17 11:38 AM,19578d961f604373705a0a04b517e9d73ad8ccaa148525bfca16061b2a14af3b,1,biochemistry,cellular biology,,walk_in,,new,0,
+79,4,2/16/17 11:40 AM,09ba76bddc96b7d174c4bc707c7368080d8818ecec73dc1ea87dd7ab837b03b6,3,biochemistry,,,walk_in,,new,0,
+80,4,2/16/17 11:43 AM,734fe5abd6070d48ec42a275a4774db12e7f620fe34cf781d5f279f0f4edd5ff,3,management science,,,internal,,,1,
+81,4,2/16/17 11:43 AM,4f8ed5b330647c154cfe88cc30609e2f00fa4f0c757db1aba6218499551f5c12,2,math/econ,,,internal,,,1,
+82,4,2/16/17 11:44 AM,ce5e2e065fdd9c6cbb44dd754d388dfce2922d6535660f04a5cd51ad3b09baed,2,economics,,,internal,,,1,
+83,4,2/16/17 11:44 AM,cdfe18e029818ebced973c1e51a4680c08007fbc1b4349d857ac3d5a844a026b,3,economics,,,internal,,,1,
+84,4,2/16/17 11:45 AM,4b237318588d4999aeb3bdcf76f16773f043f7f1330293e2d94a6ee491cfeef3,1,literarure,,,walk_in,,new,0,
+85,4,2/16/17 11:46 AM,25393b323112b7121d0f26581fbec012feeefc5d0a174c7f214c4b66ffa4b46c,3,neuroscience,,,walk_in,,new,0,
+86,4,2/16/17 12:00 PM,9b94bc5fbdab3eae0530431b274c6837c22a5fc20d3e17e8b8cbd7ea031a97ef,2,economics,,,internal,,,1,
+87,4,2/16/17 12:09 PM,7bdabc6364fb721f4844afdcc07aa8777230d8bb463b23c5bbbc1df61e6fde5f,1,management science,,,walk_in,,new,0,
+88,4,2/16/17 12:10 PM,65a7a94278ce793b45b47aeda1fb0fe67b6833547a74cdc8bab04d683000e39a,3,math/econ,,,internal,,,1,
+89,4,2/16/17 12:17 PM,e0487c9a9c31dda89cf7390b91086372f401efb6843ee91bf675a16e20fe0edb,3,psychology,,,walk_in,,new,0,
+90,4,2/16/17 12:20 PM,2085033d10eddb642f467bbe694c79dccecda80963b09fdd01f498b5b3d3baed,3,economics,,,fb,12,new,0,
+91,4,2/16/17 12:26 PM,c929f4b307a895d33e932a5f53c6ace99a52841fc3b4366786dab33baf545eaf,3,math/econ,business,,word,,new,0,
+92,4,2/16/17 12:28 PM,fc84a757845888bb28b241328fc90e7abbe0a1aecdd4628f0e2973883571312e,2,economics,,,internal,,,1,
+93,4,2/16/17 12:34 PM,d9e331bd648f70cdf7e76bbc83fa3de69aa89b9e5243369cdc936eda342056ed,2,economics,,,walk_in,,returning,0,
+94,4,2/16/17 12:35 PM,8a5f20dd57583b2c18eb991dd5fe7de3dbb12c07e360369f3baf23a79670ca3e,5,public health,,,seat_flyer,13,new,0,
+95,4,2/16/17 12:36 PM,301cca680a3d0e9ba2c09a5227c71ea6c17d2d6e13db398ec0efa7c9a9588589,4,public health,,,seat_flyer,,new,0,
+96,4,2/16/17 12:45 PM,150d977f4e32b2c15a0cc3e00087a51c5bd25ab365692060fdb109a095efdd19,4,management science,,,walk_in,,new,0,
+97,4,2/16/17 12:46 PM,acfaa6769a704ce795808fb9037da374fd23becc34256edcf2d2d72dd5d3716a,4,math/econ,,,walk_in,,new,0,
+98,4,2/16/17 12:47 PM,bf4f3a10df8223fbc2c65298628dcaa05715c8cbe2a08aeac2dabad5b0e135ef,1,economics,,,internal,,,1,
+99,4,2/16/17 12:53 PM,522bf07db69df2407c1828269ec9c32b7ea2dff44967ba976e96fa1ed59571a1,1,applied math,,,walk_in,,new,0,
+100,4,2/16/17 12:54 PM,42a33378d865d4c53906ff3392f36a8a4a31de218b245843c166dd7366bbe980,1,physiology & neuroscience,,,walk_in,,new,0,
+101,4,2/16/17 12:55 PM,8eadbddd0c9ee6c3fbab5df5a2431a00baf110103236b0d9cfe9ba75d3ad037b,1,biology,,,walk_in,,new,0,
+102,4,2/16/17 12:58 PM,912b8804bd451312d6ecaeb5aa7325d4d766c9a1d4c83babcce6b5cec7b8af5b,3,math/econ,,,internal,,,1,
+103,4,2/16/17 12:59 PM,0c92730de12c18a7df449ddb52a911ac245f789f7d739325259258fb266735f2,4,economics,business,,internal,,,1,
+104,4,2/16/17 1:01 PM,56681a8442c2b07727284cf310ffa6e6e8e4308b2095bd8ae5db1eca88252948,3,human development,,,walk_in,,new,0,
+105,4,2/16/17 1:04 PM,240091a60a7b7b9bbfb699b33cd7ad4413bcaa667ac2dc7c12f9e01fe26af841,2,political science,,,walk_in,,new,0,
+106,4,2/16/17 1:06 PM,1386dae463782edc1907b3a3e8179bc0f41fed12aebaf17182677ebe28748e3e,2,economics,,,walk_in,,new,0,
+107,4,2/16/17 1:07 PM,2a4c5c43cd0fe634a28062a71ffd3e5b49f0088ef9755d5f88b9a078466559dd,3,economics,,,walk_in,,new,0,
+108,4,2/16/17 1:13 PM,b5861a8ad437ebf12c7ceb2ccd7fca633620d9bd9ac07c02b34bc79b2936a957,1,biology,,,walk_in,,new,0,
+109,4,2/16/17 1:13 PM,8cbaeee61a165e38de2e3b3445264cedca57afa86d47ee7f030b1b437c5e2459,1,biochemistry,,,walk_in,,new,0,
+110,4,2/16/17 1:33 PM,34e4fdbcf1128e2b3ee9bf2728662a4f8eec9364c5da8da2c473f9ef783140be,2,math/econ,,,internal,,,1,
+111,4,2/16/17 1:33 PM,d14a1280789e0585043e45b874d4f005ca10537b99222afb7e2597602d505b8e,2,economics,accounting,,internal,,,1,
+112,4,2/16/17 1:53 PM,3ec8f0d8fa98648edd94268f87ada58b862f1a3bb849b9f7c97443dde6f6c5b8,5,economics,,,walk_in,,new,0,
+113,4,2/16/17 1:53 PM,c96c970887e453f6802d04ce1c80305a369a879076acc06828c212896384393e,4,economics,,,walk_in,,new,0,
+114,4,2/16/17 1:54 PM,17b477ae735c324bdd64e230aa65c9527c48cf02e4c5937329f74c754629d97b,3,philosophy,,,walk_in,,new,0,
+115,4,2/16/17 1:55 PM,da717edd7bd5841aa902844db6cbc25a8c1a5918d61c7a683d91040770362e52,5,economics,,,walk_in,,new,0,
+116,4,2/16/17 2:00 PM,24dc488c84780146c3da19c67660caf5b3bd87bae50255ef30be9ab13df77a32,4,economics,,,walk_in,,new,0,
+117,4,2/16/17 2:00 PM,31294c9c8330c360a23a790bf92adca2d581f5e9a1e14812987965a53402a5b5,4,math/econ,,,walk_in,,new,0,
+118,4,2/16/17 2:12 PM,f0d3764174f2caa284412c703bbb2d8c76f7dbcf807b93819c392809bdc6f576,1,international business,,,walk_in,,new,0,
+119,4,2/16/17 2:13 PM,ab0cd46dc64f97abbc9d7cef1876e1033c9af70002d857492f77ada9381aa232,1,international business,,,walk_in,,new,0,
+120,4,2/16/17 2:25 PM,458fa815ca7d2599e2211bb46e607f36a8520ff8d594553d26105d9ec7ea124e,3,math/econ,,,walk_in,,new,0,
+121,4,2/16/17 2:36 PM,0f99fd3eb418d7cc5693b85ca95a6a22f5f37ffa81e6ad66e71b1acb2e5c7b14,4,economics,business,,word,,new,0,
+122,4,2/16/17 2:40 PM,154bfa6cdfc0f9511571eae2800e141ec9463f98c0fe356b2f55d7e5b85d25a6,3,computer science,,,walk_in,,new,0,
+123,4,2/16/17 2:40 PM,273809f7e9051b09a176e79cb83872e21d235309b49c926efa32bc8215213fb1,3,economics,,,walk_in,,new,0,
+124,4,2/16/17 2:46 PM,e03594238d29363f0325936f3a22395273a6962e90ab5a761a965268209cc5f8,4,math/econ,,,walk_in,,new,0,
+125,4,2/16/17 2:52 PM,78052a5eccd243ca1b4aafc2a18c94135a9f4c953e8bcfdd66a63689b450ee7d,3,management science,,,internal,,,1,
+126,5,2/28/17 7:44 PM,f7d49333d403d15d2d130e08ecf734ae43666b8952612ca6b025c572c7856aa8,3.00,economics,,,internal,,,1,
+127,5,2/28/17 7:47 PM,48f1e379abbc1890cfdca7387fb8f700a5794549f716ba59249758f5a0161245,3,math/econ,,,internal,,,1,
+128,5,2/28/17 7:54 PM,8231f3aca72855a24de6c5e3893ddf39ff152821582d6fdb0887aad08013113e,3,business,,,word,,new,0,
+129,5,2/28/17 7:55 PM,c4d5f391c922ca6b8fe633eb6ad85f75b90c023a9d9d3e45e2bb5d0dabb8bde4,3,business,,,word,,new,0,
+130,5,2/28/17 7:56 PM,9dd1c65727775547eecea008264c59bd562e9d0dc774a5b4cf0edda3f8e9a618,3,economics,accounting,,fb,18,new,0,
+131,5,2/28/17 7:57 PM,531f35c3dc872efbb13b2ef26dd77d66e0359801d8fdf4cccaf6443de933c518,4,international political science,,,walk_in,,new,0,
+132,5,2/28/17 7:58 PM,cc954344e5af319089c59e7e7c97b3ce5a82011fbe71eaeb8920296133575209,1,economics,,,internal,,,1,
+133,5,2/28/17 7:59 PM,25ef7caa539c9f2250e4fc0d2973e5d1ae54cab000c876bd9a0f91e5e7acd9f9,1,economics,,,internal,,,1,
+134,5,2/28/17 8:01 PM,d11cbf9aba2f8001fb805a7157d0d5c624592212dbb5ee70c7a206fb461856e5,4,management science,,,internal,,,1,
+135,5,2/28/17 8:02 PM,9807095dfdcbc19192ca5157f7af64862e09bc0787db709df95b97348e849f24,2,economics,,,internal,,,1,
+136,5,2/28/17 8:59 PM,bcf5e2f9dc12aaca67b75a8ce98bc79256f10efbc5bf8e6b68c8b208da504cea,3,management science,,,internal,,,1,
+137,5,2/28/17 8:59 PM,8239feee4008d0e37b72d1ac472da2aad2871dbb817dc88ca60c52ef0980b059,1,economics,,,internal,,,1,
+138,5,2/28/17 9:00 PM,aef3ebcbb17ee05017e0aeb64c4d49f5be1f55a941169d5557e9dead85039de9,3,international business,,,word,,new,0,
+139,5,2/28/17 9:07 PM,cf6d7a91fe9e0f36a0cea02d2c503146855ae517b4136691a17aed9d34005c20,2,international business,,,internal,,,1,
+140,6,3/18/17 11:00 AM,db4c308167569920f9d8bc56ce3a1ef49b11ddf08eb1885976f7b08f5112cd15,3,math/econ,business,,internal,,,1,
+141,6,3/18/17 11:10 AM,a3c4ff93187f9efcf6d50b4b3751d35ac015ec88ce7d72fdb26e75747413c04a,2,economics,business,,internal,,,1,
+142,6,3/18/17 11:11 AM,58c82b4444baff3a9c7199324b095cde64015b6a4a418d383fdce4251c762fc2,2,math/econ,,,internal,,,1,
+143,6,3/18/17 11:13 AM,2dda3c855c76dff82ad6d4ec2c44e02e82d2db37e6a51f8b312146d2b96a9cf2,3,math/econ,,,internal,,,1,
+144,6,3/18/17 11:14 AM,57b3a4fe4b5141702f77fbb1a872975b0766b8b1b8580aeee31019585a24d741,2,economics,,,internal,,,1,
+145,6,3/18/17 11:40 AM,f96ec52441be7d8f7fe4d443465edb6b337aea61e6f90919c604cb76bc042ba5,2,economics,,,email,34,returning,0,
+146,6,3/18/17 12:14 PM,c963c962d9c79285428de6757e1f01dcddaac0092e4e643c14e0795e4ab3d502,4,international economics,,,word,,new,0,
+147,6,3/18/17 12:14 PM,f6125eac79b03b9ced3ee783ce668506fb4a5b6fde74d6b7971a3e91cade657e,2,economics,accounting,,internal,,,1,
+148,6,3/18/17 12:15 PM,3fe9b1bd9356b8a6f4810e842ac487700ba25bf79b2f3416e734af5e18e117c0,3,biology,,,word,,new,0,
+149,6,3/18/17 12:16 PM,89c5f6cc3cfe26dce84385eff60ca816041bd256b8d09a4a3e297830fa157c58,2,management science,,,internal,,,1,
+150,6,3/18/17 12:16 PM,75f028e9ec8264d5ad501c60700b3fb03fbf1cd31e05d0f5b125d394f3886fd1,4,economics,,,internal,,,1,
+151,7,4/17/17 2:29 PM,651a07e9e7651337e0841e4a870503da034b79086569be0d9158201c4909b3d5,2,economics,,,internal,,,1,
+152,7,4/17/17 2:30 PM,fc941bd80a6519accb77e0e6d185d6b04b271f10cd2dc262af95fd829ffdec28,1,economics,,,internal,,,1,
+153,7,4/17/17 2:31 PM,3f920e5a9d34b4b345eea2d30216808ec3c7b0d1f1e221c1fdabca6756d91cce,1,economics,,,internal,,,1,
+154,7,4/17/17 2:32 PM,7073578223fac6ca6d20e4cce01417ec629ac31ea051669801dd813dc24247cc,2,business,,,internal,,,1,
+155,7,4/17/17 2:32 PM,b82935eafe3dd1ab7fb3f42742cedd8f1159539e0a92d3222350ac53e0212095,1,economics,,,internal,,,1,
+156,7,4/17/17 2:33 PM,d76773c9336c80dd7b32ce7993bfe0a5055efeb22080e3e575bf548d673b03e8,2,math/econ,,,internal,,,1,
+157,7,4/17/17 2:33 PM,3c75081f681e68ca6415c7d9a3ce98ef19fd1ec1cd7f594e88b1f015d20c9400,4,management science,,,internal,,,1,
+158,7,4/17/17 2:34 PM,7e99bd5aa86d643cf4b8382aa264b4c9c7e995101b948cbfc25af89edf7bee4c,2,economics,,,internal,,,1,
+159,7,4/17/17 2:35 PM,17ed9349f60152666968110e85925d6d23120edc73b21074c8f7fe75d4511398,3,management science,,,internal,,,1,
+160,7,4/17/17 2:35 PM,da36e8c42ea8c50ffe9aab355414a1cc03fca2c3b16528146e95879b57a64137,2,economics,,,internal,,,1,
+161,7,4/17/17 2:36 PM,b6fffecf1ba2476dfedfb5df781ee8c8baf1576184714ff29ff7f69072e9dc0a,4,economics,business,,internal,,,1,
+162,7,4/17/17 2:37 PM,8b0ce04c9500128de73811d7a68c77305d1de4ec5049287fa5fb871f676eb2c9,2,math/econ,,,internal,,,1,
+163,7,4/17/17 2:38 PM,b61d8baacf2da2e076dee7da60a2eb6569d3fd1f40fabe1327ac3a86d6cab917,1,management science,,,internal,,,1,
+164,7,4/17/17 2:39 PM,7835bdfc75b33535716cfbd7f9be1ba2b3ab24cc5716f573f0990f4d6352c87b,3,math/econ,,,internal,,,1,
+165,8,4/20/17 9:16 PM,b7bd77eeb73931d73d37e491c9e64508a8bc3cd841fd75e18403d2241b4b8e22,2,sociology,business,,internal,,,1,
+166,8,4/20/17 9:17 PM,97798235acdef7b2c60eb7eee4bad49f5e0d32d241f5ccd53819de6271200661,1,economics,,,internal,,,1,
+167,8,4/20/17 9:17 PM,433c01046f2fc61d264f28ae111dbfc5b78d353225e45ea8e2ff541ff0c40848,2,math/econ,,,internal,,,1,
+168,8,4/20/17 9:17 PM,72e44f23204f5c0cda0fa7544f74bc1af5de21465c74f4df27912993112ea87d,3,management science,,,internal,,,1,
+169,8,4/20/17 9:18 PM,7994c2ec092e1cd189488b731a4464857906087daa2ff5be7fd54a52d246a8dd,2,international business,,,internal,,,1,
+170,8,4/20/17 9:18 PM,fa08faa2dc481a5ae71f34c77e3c1db0a6d8933a8efa89d89bfeb1f04ee6067f,3,economics,,,internal,,,1,
+171,8,4/20/17 9:19 PM,2ba26923511860de10ed828a0df454a6787eb34404d456c45717466a208a5dc7,3,math/econ,,,internal,,,1,
+172,8,4/20/17 9:19 PM,d6a15ed5dd271315ebb9a8ac318c0728a0452843101ca476ca9f1fcde432bf03,2,economics,,,internal,,,1,
+173,8,4/20/17 9:59 PM,0dfe08d7ae4e7b5e8291ac78ce7198b28605f47e357dbce120eb6862a2a3ad00,2,math/econ,,,internal,,,1,
+174,8,4/20/17 10:01 PM,8ddcd756e1d4d34c2e9b920c856c1c63e856617732ec295aeaa33345c4c3333d,1,cognitive science,,,internal,,,1,
+175,8,4/20/17 10:05 PM,dcafd02c7a74a83876961ae9d4373a1822b2c18a96f5f1b3a32fb59537e5bf47,3,math/econ,,,internal,,,1,
+176,8,4/20/17 10:06 PM,af57fb83e5529f5a50490eb6dc55222ba96351834683bb3740fec0a6ed79e88d,3,math/econ,,,internal,,,1,
+177,9,5/2/17 4:50 PM,1b4f0be1f16b0dd01be1d6be6c1c5a7fc02b454ce2d2818027d8dbc40c56ed85,3,math/econ,,,word,,new,0,Do not agree
+178,9,5/2/17 4:51 PM,b41870aed47e3703b99012ffeae29d508c868a34bd45212e31c718186899d37a,3,management science,,,seat_flyer,45,new,0,Agree
+179,9,5/2/17 4:52 PM,1cccaf230559ef3ccabece5b0949b362af298ad6adfb530b31aedbfb4564e47a,3,undeclared,,,seat_flyer,45,new,0,Agree
+180,9,5/2/17 4:53 PM,a8ab51a7037d8b92c9b4994b8f3fd07c3784d197c39aabcdea9a284e7c5f5a7a,3,math/econ,,,email,,new,0,Agree
+181,9,5/2/17 4:54 PM,4aebd037da7ca54327e18fd27860d200293cba20da283494bb28214fc19a03d3,4,math/econ,accounting,,email,,new,0,Agree
+182,9,5/2/17 4:55 PM,df242bbbe51d7bb9654ae24cc4e48255e29a516798bdef595bb4966e607f31b6,3,mathematics,,,fb,54,new,0,Do not agree
+183,9,5/2/17 4:56 PM,0071545fddf539a52f08a6e71dcb43762b33041ee5aca6b89e0da32342dd8ffb,3,management science,accounting,,email,,new,0,Agree
+184,9,5/2/17 4:57 PM,476eb8f442aec28f9147b1e5cc763d7f04b34b5d79ce75f445fc721377eb3c20,4,economics,business,,fb,54,returning,0,Agree
+185,9,5/2/17 4:58 PM,24b4d5e7bb14e44626e0f12de16f8dd432edcaf05bdb553dce1d9dac4be567c9,3,math/econ,,,email,,new,0,Agree
+186,9,5/2/17 4:58 PM,7c2625d592e13b8d67f4c64ae9896fb319a2fd6a94e77a17befab4b1a4c0f412,2,math/econ,,,email,,new,0,Do not agree
+187,9,5/2/17 4:59 PM,4aeafdb78575a327e093b21644c9243d515356b41d9cf6d9624100ffd6eb63c0,4,management science,business,,fb,54,new,0,Agree
+188,9,5/2/17 5:00 PM,40e53e6d22ac6b04ad510d5e66192fcbd15d1b2cb2879b4fcfb6be45f9fc0993,3,economics,,,email,,new,0,Do not agree
+189,9,5/2/17 5:00 PM,5b004f73624169bd0a2621f13d99e5994c376f0ca511ec4a185e3c4e24f296c7,3,economics,,,fb,54,new,0,Agree
+190,9,5/2/17 5:01 PM,a817fb736c8e7526ebaf18af654f09f5a36518a1629cd037534bc1cb7ef2138d,1,economics,accounting,,fb,54,new,0,Agree
+191,9,5/2/17 5:01 PM,8a6cc5d2498d34a5dd3dceb7ccbf9f5ff808f94772aafc0d3e5a86f7c942e060,4,economics,,,chalkboard,51,new,0,Agree
+192,9,5/2/17 5:02 PM,e07fcf06d0053fd39acb1b65351998192e9bef653be00fadee48169a86a2b448,3,math/econ,,,fb,54,returning,0,Agree
+193,9,5/2/17 5:03 PM,c9bd4fd34b3c47b23fccd67f9abc519aad3baf7dcc24d833093d00c622119693,1,economics,,,seat_flyer,I don't know,new,0,Agree
+194,9,5/2/17 5:04 PM,065a0976388e1cc581d2ee7c85f7d0cb8792b9d1be314dfd32234c7e9192ac38,3,economics,,,chalkboard,50,new,0,Agree
+195,9,5/2/17 5:04 PM,ec2edace231487744e66d76f5ca54a146fc8ab500539520ad5a8ec166344f949,1,undeclared,,,seat_flyer,44,new,0,Agree
+196,9,5/2/17 5:06 PM,f421d7f3060e2b9c49daad5190ded80378d1129c170c7f20c105fc42b00d5daf,4,undeclared,,,seat_flyer,45,new,0,Do not agree
+197,9,5/2/17 5:06 PM,1968ea20dc7601ad07b901d548fa2f096c35c653a9d9aefc6a8c1177d6ffc5e2,2,math/econ,,,email,,new,0,Agree
+198,9,5/2/17 5:07 PM,fb545e3c2c03478f1f597f54b87f01a01a9fd5cbf42737889ca1b81b50f370e2,3,economics,,,fb,54,new,0,Agree
+199,9,5/2/17 5:07 PM,cb15cf747ac7ef85a1676b529734ac1b85607213190d3527a45e08889e4eb118,3,economics,,,fb,54,new,0,Agree
+200,9,5/2/17 5:07 PM,e4343ca27e69211f90b1ecda32f2b3df5e2b274788cf429d0137ea5e15d146aa,3,international business,,,fb,54,returning,0,Agree
+201,9,5/2/17 5:09 PM,ff28073d9baf07d8ede98640d506016830e86e4ae59b21f53009883eb94d1f37,1,management science,,,word,,new,0,Agree
+202,9,5/2/17 5:09 PM,e7a53275fb4302fcecf006fc497cc7617d22b31e320b9bbbd64603c00ee81e48,1,economics,,,fb,54,new,0,Agree
+203,9,5/2/17 5:10 PM,1ba965fad7a4e96d184e9e5362cd5589c370d62961803d0a8cebf88ea0f54da2,1,math/econ,accounting,,fb,54,new,0,Agree
+204,9,5/2/17 5:11 PM,8bafdbfb4f9fcda2bbbbd9c16fa2c25616c876fd1cf2987506f1c65f573b4afd,3,math/econ,,,fb,54,returning,0,Agree
+205,9,5/2/17 5:11 PM,9ec748dc22a912768b4e21a6157c3110c33513fda62695950c7c02107605c628,1,management science,,,word,,new,0,Agree
+206,9,5/2/17 5:11 PM,4efe9ee1f6143b57061b2924fe125ba4c7c6c1deee8b62a5cf46dbc7bb90ca23,3,public health,,,fb,54,new,0,Agree
+207,9,5/2/17 5:12 PM,027bc8b06dd2b08fb3b2541040d5f3dfcc36d8637ce8bb94f939eb8e023f75f5,4,management science,,,word,,new,0,Agree
+208,9,5/2/17 5:12 PM,e3f346a548eef407fa1012642544ec4d97ca8162a2faf8f455051efdff7c08aa,4,economics,applied math,,email,,new,0,Agree
+209,9,5/2/17 5:12 PM,c3c25391c39700c9a07b38e504e2b8d932c1a7c07ee4a84f2c597499c19fadaa,4,economics,applied math,,fb,54,new,0,Agree
+210,9,5/2/17 5:12 PM,6afdc36ada7892e139ce7c208b72b749c0c65f4b882e0085179bd086057a1f4c,3,math/econ,,,email,,new,0,Agree
+211,9,5/2/17 5:13 PM,d76d41d7de3a02bab6651bc267beae4369e8af857a22d3c0e8dde79bec055c30,2,economics,,,word,,new,0,Agree
+212,9,5/2/17 5:13 PM,8323d2e3bee07abcab291348b300014638bcb748cf5e331ffa7f69cef4a0ef99,2,economics,,,professor_anouncement,,new,0,Agree
+213,9,5/2/17 5:14 PM,460fe28cb62d61dad0aad1f57a884e8dbbd53fb7266a57714433ef11c984af63,3,economics,accounting,,word,,new,0,Agree
+214,9,5/2/17 5:14 PM,1006717a2a478859d8e06cdb1d9604dabd289fb7ad42b5317b3a02de67f61ab7,4,economics,,,seat_flyer,46,new,0,Agree
+215,9,5/2/17 5:14 PM,38b68b6190a4bce8c712129c161814968f7f17cb36abe8c438de7be8ebbb0202,1,economics,,,fb,54,new,0,Agree
+216,9,5/2/17 5:15 PM,84092a20434950d53ff639606530bad00cc6687a69715fc8793bb5641debb4cd,3,economics,,,professor_anouncement,,new,0,Agree
+217,9,5/2/17 5:15 PM,c612f2e9dc2d4be90a8b88eb83f3ede0075bf47942d0eb2a7be2e35414995a89,2,economics,,,email,,new,0,Agree
+218,9,5/2/17 5:15 PM,7a6f93fcda4e123f45d34bc8061cb46a845738811503a99ebf48797adaf21cca,1,economics,,,email,,new,0,Agree
+219,9,5/2/17 5:16 PM,b99482f6fd0d3640251760c5352eaa1c27199c9592a6bfd4cd5d8c3fd3d77e54,1,international business,,,word,,new,0,Agree
+220,9,5/2/17 5:16 PM,7f449e32fc99807e075957f9e646652f34353e56286493bc82d4064b21b44695,5,math/econ,,,seat_flyer,,new,0,Do not agree
+221,9,5/2/17 5:16 PM,10475a93bf38a70d20727207bc5a54503518032a2341bc970b8756c54f03f2fe,2,economics,,,email,,new,0,Agree
+222,9,5/2/17 5:17 PM,60d6be6d21b17eee970f33564b5d8cb5feb7c0a112db85f6ac807eeb2e820c66,5,management science,,,word,,new,0,Do not agree
+223,9,5/2/17 5:17 PM,850e28df8b34ed6cb0a02e10c237df02875e7869e2903e5e714ab5d7e615da9d,2,economics,,,email,,new,0,Do not agree
+224,9,5/2/17 5:17 PM,7a7a91b0c54086a235f9866f010d61c35ae8e26e3be88a5a71099aff2ff0a0a4,1,math/econ,,,email,,new,0,Agree
+225,9,5/2/17 5:17 PM,3a2d9ec0ae34bc4c18c8bad0a357b1d16ac436ef6c83f959c149799258e751e9,5,economics,,,email,,new,0,Agree
+226,9,5/2/17 5:18 PM,4281b4cc79943dea839a3f81dae96b9f986ed1bc56e54fed8e2d024cbd16fdd3,4,economics,business,accounting,email,,new,0,Agree
+227,9,5/2/17 5:18 PM,6c8530b149e857a9c78c741f6427f40101195ce4471179c87197444ebc4a97f6,3,math/econ,,,email,,new,0,Do not agree
+228,9,5/2/17 5:18 PM,33315eb3133d26816fc452d12e3b7dd086c7ed7db8b6524fc883bf9772b965af,3,management science,,,email,,new,0,Agree
+229,9,5/2/17 5:19 PM,196d60f4815cfab3ec3dd9ea1731a885e552ac55782e9140ae3188331ed630ec,3,math/econ,,,email,,new,0,Agree
+230,9,5/2/17 5:19 PM,21e672cf52d79274cda3e74dff9df1bf4411f4b612495e3b57439dfddde8c4bb,4,economics,,,email,,new,0,Agree
+231,9,5/2/17 5:20 PM,7f12bd67c99606d380627b8f5bc692ed6704ad2afcb7e4de483494d4ec739618,4,economics,,,word,,new,0,Agree
+232,9,5/2/17 5:20 PM,4cd21b0f6554207cb1073e6125f3bbd97bed3a162331d63dc5711f24aa1d08e6,4,microbiology,,,seat_flyer,I don't know,new,0,Agree
+233,9,5/2/17 5:21 PM,198030dab51bf0e5e48e4d9a193645fbf4ccd03ebae1918208a08f66d1efcb2f,3,economics,,,seat_flyer,44,new,0,Agree
+234,9,5/2/17 5:21 PM,d11f3409b7f1fad8e851b59e99de439b9038b80d6443c3fadac25b7cc4c35bf0,3,economics,,,seat_flyer,45,new,0,Agree
+235,9,5/2/17 5:21 PM,b93499bfa2909bb88513b6cc9dc4fad4a64a6bdd4cd4ea7205bb3981280ed37a,1,math/econ,,,fb,54,new,0,Agree
+236,9,5/2/17 5:21 PM,0fa10b3aca15e0432c67246d6feca79bad0d8a51db59ec5651f35f36a07ef430,3,management science,,,seat_flyer,45,new,0,Agree
+237,9,5/2/17 5:21 PM,dc8192f27e4303541978d0c23dbf083544a23c43abd14da66a1e483cd7255337,2,management science,business,,email,,new,0,Agree
+238,9,5/2/17 5:22 PM,353d9b513b56387e12038bc07df0c6a25fbbe6925d9072d6363bb0d1f0d607a8,5,economics,business,,fb,54,new,0,Agree
+239,9,5/2/17 5:22 PM,db7bce7459dfe1b81bf843d6df8cdcdf2e3d35faeb27b4359c25e9e5e2ba09a2,1,economics,business,accounting,email,,returning,0,Agree
+240,9,5/2/17 5:22 PM,2c058d95d356a11f9cbc450589c05f56935846c4d3caec46885704b14665b848,2,math/econ,,,fb,54,new,0,Agree
+241,9,5/2/17 5:23 PM,4128abb9c5d0969a0f3a0d1990a42be8ba6866386ebfeb1f43b9d67be1106694,4,pharmacological chemistry,,,seat_flyer,I don't know,new,0,Agree
+242,9,5/2/17 5:23 PM,ae744a61254aced471fb824cbf77d9a6df92d13be324da70ff165730c3fe2f95,4,economics,management science,business,fb,54,new,0,Agree
+243,9,5/2/17 5:23 PM,6ee83fa408a62745283673ec2c58e921c92a0c6110761202bf0de1dc6a84ab0b,4,physics,,,word,,new,0,Agree
+244,9,5/2/17 5:25 PM,e67f920bc6c3d7e4898905a32a5f7a292ee13495284beb66992a9658506a74ef,3,business,,,word,,new,0,Agree
+245,9,5/2/17 5:25 PM,0a475d411ae371a019ace728279778e43bec86e8096c3c37310a163a089559c2,3,management science,business,,fb,54,new,0,Agree
+246,9,5/2/17 5:27 PM,81b66a91cf945028ccfb8be0669cb6718f6f8895dc120588b521f2ae64b42f19,1,economics,business,accounting,website,,new,0,Agree
+247,9,5/2/17 5:29 PM,be78a8a9e34c5b63874a2b5bb8a9c749e1b72ff5b902f89aa7be90439f0e2991,3,international business,,,word,,new,0,Agree
+248,9,5/2/17 5:29 PM,fa0e819218a2467d7a133be6320f0035af3402c69e4ae77dbc9f119936a40b7b,1,management science,,,email,,new,0,Agree
+249,9,5/2/17 5:31 PM,179da786751b9988622c68c7600fbc142369d5b47fc5a96337ede1a99f34f77a,4,economics,probability statistics,,fb,54,new,0,Agree
+250,9,5/2/17 5:32 PM,a43d13ea6c31492d500177391bfe6f2abe187b49211ddf4e16a5969e2a33a90b,2,management science,,,word,,new,0,Agree
+251,9,5/2/17 5:32 PM,85261ab8829688d5ca96775d0bec28e8f8ed5a9193d2f9f40592e9c99bd8eff9,1,management science,business,,email,,new,0,Agree
+252,9,5/2/17 5:33 PM,ce1ad9497e4b88d68af4829458a0a82638b04a29fec55a4dde98ec49493a60d8,5,economics,business,,email,,new,0,Agree
+253,9,5/2/17 5:34 PM,c87fef3bcaa624f841799b9beb81d91e17d126c86841cd2cd69da857b9b5722f,3,economics,,,email,,new,0,Agree
+254,9,5/2/17 5:34 PM,2d79ebf0748aa3482e833a31f631eaef06fc4bc3aa8a00d4c2b7289794342302,3,economics,,,word,,new,0,Agree
+255,9,5/2/17 5:36 PM,1694090588df99d0a974c9b033868d1d477ce33eca71a119d006e93e6e3c2cd0,1,chemistry,,,fb,54,new,0,Agree
+256,9,5/2/17 5:39 PM,71d84229245a95c9f55073e445e3937bdd324a784b4e74060214e7f4362dc718,1,undeclared,,,fb,54,new,0,Agree
+257,9,5/2/17 5:43 PM,c63ee6c82d9c0fa381ed4529c6862fa270ff7068de2b30e0acf9b7e934eb2f2c,4,undeclared,,,word,,new,0,Agree
+258,9,5/2/17 5:50 PM,ef6dd793d9f60a6bf05900069a5e2890c0e1a36fb7f427f33f43be7d18ce2547,2,economics,,,email,,new,0,Agree
+259,9,5/2/17 5:50 PM,ca0a9959a2f3af78df680026516aa181b374fdb66a350161a7895b4540950f50,2,math/econ,business,,email,,new,0,Agree
+260,9,5/2/17 5:51 PM,cf7840141126466e6c4c74125092f55e64b69fdd960b892700a9e40b9cac73d4,3,math/econ,,,email,,new,0,Agree
+261,9,5/2/17 5:51 PM,612fcd9ea7b3739163b8de1bea54927a3843719a26401d030e2bbd528ba9dfca,1,economics,,,email,,new,0,Agree
+262,9,5/2/17 5:56 PM,3a8d6562d5227f418dcebe3bfac5477063f2da2add90c4342a9c4b6336b89eee,4,economics,,,seat_flyer,44,new,0,Agree
+263,9,5/2/17 5:57 PM,8420263e5161c776e1f5e24f77663b2152f5e19755fabb694f8827893552fd32,4,economics,,,email,,new,0,Agree
+264,9,5/2/17 6:05 PM,bc4b915d85231d6d773d453bc724e831f6d302388189c677b6e4392e6226b36a,3,economics,accounting,,word,,new,0,Agree
+265,9,5/2/17 6:06 PM,96ef737fdc3ef7d9cce4be78c8884f9ea557296bc699c21f42ef15b0dddcf2d8,3,political science,,,word,55,new,0,Do not agree
+266,9,5/2/17 6:07 PM,4b68a5490ec7d356f10b3e4657abb53c17b95433cadc7bdeb63fed30c1824d42,1,economics,,,word,,new,0,Do not agree
+267,9,5/2/17 6:08 PM,47b922b294213edd68839e6b2638bed100f550140b64b4b758ddec57f5688410,3,economics,,,word,,new,0,Agree
+268,9,5/2/17 6:14 PM,1f843c5bd4ef883f1c49af3a53def9528b43da2dbf06595ac9db7d484a9f9257,4,economics,,,fb,54,new,0,Do not agree
+269,9,5/2/17 6:27 PM,f582b4c71b14413ce8f6fee045a9b7a70378d552d37dc610c1bc710868f4d333,3,management science,business,accounting,word,,new,0,Agree
+270,9,5/2/17 6:32 PM,d43258ee11e477820b8ed64247b595e13af6c8570aa3aac42b3a073455ee9760,3,communications,,,word,,new,0,Agree
+271,9,5/2/17 6:33 PM,486f6664e4fe4eb0b1e5c587040a92edc79504c2853649f2f350a7e5730cfeeb,2,,,,word,,new,0,Agree
+272,9,5/2/17 6:34 PM,a3fec5871fff0e1e03804f5c33dd21f20247d6f241b52cea0d2a386ee6a290ad,2,undeclared,,,word,,new,0,Agree
+273,9,5/2/17 6:35 PM,7b04dd619c6c549365463ed53c7a2518dae595c60736e5eb3d60750a062c2e22,4,international business,,,word,,new,0,Do not agree
+274,9,5/2/17 6:36 PM,400165bbde143816bddeb8b820567b4a3a94bc2de2ca51767faecc6e96ac81e0,2,math/econ,,,walk_in,,new,0,Agree
+275,9,5/2/17 6:36 PM,be88a4bda6c0885ce26578575b96939ad240054457391d5ce34daf36cd13dc06,1,undeclared,,,walk_in,,new,0,Agree
+276,9,5/2/17 6:37 PM,c6fe85ec6f23145e3aa1c2079ecab61f212c88263a209fac84a7c42db5165918,2,math/econ,,,walk_in,,new,0,Agree
+277,9,5/2/17 6:38 PM,514a65059fdae0a6254935d088ae9352937c68462adb46c93a48e345f23f8a87,4,undeclared,,,word,,new,0,Do not agree
+278,9,5/2/17 6:43 PM,06bb01a053d8a715b3b26ae123265ab1d4f1d60c8b4058045b57f94407cd8710,1,math/econ,,,email,,new,0,Agree
+279,9,5/2/17 6:43 PM,0248bdb0bcc75f788c5c919714527b35b04ef76d52cbda74e302c0de67fe04d9,3,math/econ,,,word,,new,0,Agree
+280,9,5/2/17 12:00 AM,5c2fa53fbd9aec03a77399ea935d4a7195bdc2501e403a69c3c6656ae838dc6c,1,cognitive science,,,internal,,,1,
+281,9,5/2/17 12:00 AM,45d06a660d77d83692ab0b7b9b2f81a06223456bdc938ac264b14185abe7f5be,3,math/econ,business,,internal,,,1,
+282,9,5/2/17 12:00 AM,4285410318c57618019170c79f5fdbc9fc1ca600f264f5ba38a07705abe1a6bb,3,economics,,,internal,,,1,
+283,9,5/2/17 12:00 AM,a6a52bbddf2b35b803b86ab31ac86b20ef1d0509e8c0a0d0136972bcccb0ad3d,2,,,,internal,,,1,
+284,9,5/2/17 12:00 AM,42ad4230dd5a7df05fc25389208c64c708fa264b444af97d6426befaa8e10b16,2,math/econ,,,internal,,,1,
+285,9,5/2/17 12:00 AM,008e6f23b9a503e5f7327e47c772e2be78e4d3cb34b652d3e9a8aa088a8e7303,3,math/econ,,,internal,,,1,
+286,9,5/2/17 12:00 AM,0a7bbc66c8101c819513c4db318e28706c49983581b83e99ece65f074af88a90,2,international business,,,internal,,,1,
+287,9,5/2/17 12:00 AM,af0800ea31a41a67580c2fc0d6c83b3d833ae617b648da639b5d025c53bc1be4,unknown,economics,,,internal,,,1,
+288,9,5/2/17 12:00 AM,31548d25284941a4ca034c24a252415440191982e8ed9401de817f9a2f2e8101,1,economics,,,internal,,,1,
+289,9,5/2/17 12:00 AM,50e204db7d9dd1f2700a084ac7bbc1ea80071763ed938599941a9fe85a119150,2,economics,,,internal,,,1,
+290,9,5/2/17 12:00 AM,cc86a115e7de86f473a9dd4f5005e88e3aceb52feb3ba76e1fc9d19bb0cac525,3,management science,,,internal,,,1,
+291,9,5/2/17 12:00 AM,d89229ae2d324859c4c975fc14399382c90d8d07bcd81e056c8b130397a0e2f3,1,math/econ,,,internal,,,1,
+292,9,5/2/17 12:00 AM,7dc1784f3cb816bdb71e7eca2ef9ce6562d2cc2e837c9087a30d57bfb75056d1,1,economics,,,internal,,,1,
+293,9,5/2/17 12:00 AM,be8945d983d731c4ed62ed7c51ef72db858e7a8e2601f48d54697ff4fec85db8,1,economics,,,internal,,,1,
+294,10,6/10/17 10:14 AM,91d1b6b34c51615020aa11ce434d46240cff1126adffa23bab0fd6f3e32b44b9,3,bioengineering,,,word,,new,0,
+295,10,6/10/17 11:45 AM,34dd0f4dfbda5da1bef65ee277ade8de310f4b25f418f5aaea7cbd315f181ca1,3,bioengineering,,,word,,new,0,
+296,10,6/10/17 1:18 PM,25b383c0e2ebfbdcf907cbd7c61a5b7a078b632e08087a1d62b346bc97fa25ae,4,economics,business,,word,,returning,0,
+297,10,6/10/17 1:27 PM,a236d6e17c010ef0c463ee69c2ade6743922e017e521a46322802dbaebde4455,2,economics,,,fb,,returning,0,
+298,10,6/10/17 10:30 AM,3afa68b04ddad1125de44f496b602bf9e6eba10a11ba4cf89a02a0c27f5d0b44,,,,,internal,,,1,
+299,10,6/11/17 10:30 AM,fdac2554d0ec91387b9ccc5ec32b3bcbeffbc4aca65354ff9e08b69720b03876,,,,,internal,,,1,
+300,10,6/12/17 10:30 AM,c3d3ef258b4fe0ef420d79778067902454fb5b89823236fc049b06b9cfeae7f2,,,,,internal,,,1,
+301,10,6/13/17 10:30 AM,a60fa146e076328d5ea6cd24960871eb088811516dd0b482a1160337bc20dc76,,,,,internal,,,1,
+302,10,6/14/17 10:30 AM,7fc5133b2743fd29f4bd43a2313c93f1d73d63b2cad28e181c707c67272218cc,,,,,internal,,,1,
+303,10,6/15/17 10:30 AM,05b06042a2c70b241667d3c78bcec8e60c6f2669cf3d0f9882a9c8e56e4be1ce,,,,,internal,,,1,
+304,10,6/16/17 10:30 AM,5cc241fd48fa75d87ccefdcb31fedc6412cf178b0c7b84c7af1db6a1b891adb5,,,,,internal,,,1,
+305,10,6/17/17 10:30 AM,23e4319b32cc6779c142b92f256ee208f4370b81a13bbfd8b54de322cef9105d,,,,,internal,,,1,
+306,10,6/18/17 10:30 AM,f57697093e698b07cbdd309da9e47a8268a8fc9ddbd3642dcd334887b2680f29,,,,,internal,,,1,
+307,10,6/19/17 10:30 AM,de9062b4c9fcfea35c648676226e402f0b128090218e4a51c50bd99da1c9f150,,,,,internal,,,1,
+308,10,6/20/17 10:30 AM,fe6512a75bd72e3e9fdde8f91ed7ccdb4ba79172fdf2067d16e80e64b2ae9070,,,,,internal,,,1,
